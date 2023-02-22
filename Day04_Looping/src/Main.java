@@ -7,13 +7,17 @@ public class Main {
 //            System.out.println("the loop run into:"+i+"times");
 //        }
 
-        //while loop
-        int i=1;
-        int money=1;
-        while(i<=10){
-            i++;
-            money*=i;
-        }
-        System.out.println(money);
+          //while loop
+//        int i=1;
+//        int money=1;
+//        while(i<=10){
+//            i++;
+//            money*=i;
+//        }
+//        System.out.println(money);
+
+
+
+
     }
 }
