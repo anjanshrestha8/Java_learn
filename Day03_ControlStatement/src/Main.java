@@ -32,8 +32,13 @@ public class Main {
         switch(age){
             case 40:
                 System.out.println("I will marry.");
+                break;
             case 60:
-                System.out.println("I ");
+                System.out.println("I will retire.");
+                break;
+            default:
+                System.out.println("I will buy a house.");
+                break;
         }
     }
 }
