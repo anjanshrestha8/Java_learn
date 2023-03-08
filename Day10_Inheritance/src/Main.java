@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Animal obj =new Animal();  // animal ko class ko object banako
+        obj.getHeight();
+        Dog obj1 =new Dog(); //dog ko class ko object banako
+        obj1.getHeight();
     }
 }
