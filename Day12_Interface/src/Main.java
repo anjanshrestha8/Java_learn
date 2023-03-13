@@ -6,6 +6,8 @@ public class Main {
         Rectangle obj = new Rectangle();
         obj.name();
         obj.getArea(2,3);
+        obj.getColor();
+        obj.getArea(3,3);
 
     }
 }
