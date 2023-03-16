@@ -1,0 +1,19 @@
+
+
+1. List (sorting and inserting)
+	a. Array list
+	b. Linked List
+	c. Stack
+	d.
+
+2. Set (duplicate element else)
+
+	a. EnumSet
+	b.
+	c.
+	d.
+3. Queue
+
+	a. Array Deque
+	b. Linklist
+	c. Priority Queue
