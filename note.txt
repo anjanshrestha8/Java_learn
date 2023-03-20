@@ -17,3 +17,8 @@
 	a. Array Deque
 	b. Linklist
 	c. Priority Queue
+
+
+
+what is ipc explain peterson solution to obtain ?
+E
