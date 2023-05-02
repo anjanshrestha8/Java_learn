@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class GUI {
     JFrame frame = new JFrame("GRAPHIC");
-    Box box = new Box();   // box lai extend gareko j panela bana ra
+    Box box = new Box();   // box lai extend gareko jpanel bana ra
 
 
     public void render(){
@@ -13,6 +13,7 @@ public class GUI {
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
+        
 
     }
 }
