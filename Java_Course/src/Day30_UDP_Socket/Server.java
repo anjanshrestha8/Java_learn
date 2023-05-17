@@ -23,7 +23,5 @@ public class Server {
          socket.send(packet);
      }
 
-
-
     }
 }
