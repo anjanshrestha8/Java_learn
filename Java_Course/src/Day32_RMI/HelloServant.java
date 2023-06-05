@@ -10,6 +10,9 @@ public class HelloServant extends UnicastRemoteObject implements HelloService{
 
     @Override
     public String printMessage() throws RemoteException {
-        return "Welcome to my Server";
+        int a =10;
+        int b = 20;
+        int sum = a+b;
+        return "The sum is " +sum +"." ;
     }
 }

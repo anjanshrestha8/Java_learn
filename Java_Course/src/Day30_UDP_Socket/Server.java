@@ -18,7 +18,7 @@ public class Server {
      while(true){
          String inputMessage = input.nextLine();
          DatagramPacket packet = new DatagramPacket(inputMessage.getBytes(),inputMessage.length(),address,12345);
-
+ 
          System.out.println("Sending Message......");
          socket.send(packet);
      }
