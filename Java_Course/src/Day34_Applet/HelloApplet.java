@@ -6,6 +6,8 @@ import java.awt.*;
 public class HelloApplet extends Applet {
     @Override
     public void paint(Graphics g) {
-        g.drawString("Hello World",20,20);
+       String str = getParameter("message");
+       g.drawString(str,20,20);
+
     }
 }
